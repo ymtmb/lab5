@@ -1,0 +1,8 @@
+body {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-family: 'Acme', sans-serif;
+	background-image: url("Images/Space.jpg");
+	color: white;
+}
