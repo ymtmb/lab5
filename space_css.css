@@ -5,4 +5,7 @@ body {
 	font-family: 'Acme', sans-serif;
 	background-image: url("Images/Space.jpg");
 	color: white;
+}h1 {
+	text-align: center;
+	font-family: 'Permanent Marker', cursive;
 }
