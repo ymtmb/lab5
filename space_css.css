@@ -8,4 +8,10 @@ body {
 }h1 {
 	text-align: center;
 	font-family: 'Permanent Marker', cursive;
+}table, td, th {
+	border: 2px solid white;
+}
+table {
+	border-collapse: collapse;
+	width: 100%;
 }
