@@ -3,11 +3,11 @@ body {
 	margin-right: auto;
 	text-align: center;
 	font-family: 'Acme', sans-serif;
-	background-image: url("lab5/Space.jpg");
+	background-image: url("Space.jpg");
 	color: white;
 }h1 {
 	text-align: center;
-	font-family: 'Permanent Marker', cursive;
+	font-family: 'Baloo Chettan 2', cursive;
 }table, td, th {
 	border: 2px solid white;
 }
@@ -18,8 +18,8 @@ table {
 	height: 50px;
 }
 img {
-	height: 150px;
-	width: 180px;
+	height: 130px;
+	width: 200px;
 }
 div.source {
 	text-align: left;
