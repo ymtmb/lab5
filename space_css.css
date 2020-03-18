@@ -9,18 +9,26 @@ body {
 	text-align: center;
 	font-family: 'Baloo Chettan 2', cursive;
 }table, td, th {
-	border: 2px solid white;
+	border: 4px solid white;
 }
 table {
 	border-collapse: collapse;
 	width: 100%;
 }th {
-	height: 50px;
+	height: 60px;
 }
 img {
 	height: 130px;
-	width: 200px;
+	width: 150px;
 }
 div.source {
 	text-align: left;
+}
+h2 {
+	font-family: 'Baloo Chettan 2', cursive;
+	text-shadow: 2px 2px 20px #FF0000;
+}
+h3 {
+	font-family: 'Baloo Chettan 2', cursive;
+	text-shadow: 2px 2px 15px #2400FF;
 }
